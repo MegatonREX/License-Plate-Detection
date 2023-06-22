@@ -6,7 +6,7 @@ Install the tesseract-OCR.exe in your system and paste the path in the main code
 It should look something like this:- pytesseract.pytesseract.tesseract_cmd=r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 #Libraries required<br/>
-Intsall OpenCV by typing in the terminal:- pip install opencv-python<br/>
+Install OpenCV by typing in the terminal:- pip install opencv-python<br/>
 Install Imutils by typing in the terminal:- pip install imutils<br/>
 Install Pytesseract by typing in the terminal:- pip install pytesseract<br/>
 Don't have to install Tkinter as it is already installed in the latest versions, still facing problem then search on google.
