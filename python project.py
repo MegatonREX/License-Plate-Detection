@@ -4,7 +4,7 @@ import pytesseract
 import tkinter as tk
 from tkinter import filedialog
 
-pytesseract.pytesseract.tesseract_cmd=r"C:\Program Files\Tesseract-OCR\tesseract.exe"   
+pytesseract.pytesseract.tesseract_cmd=r"C:\Program Files\Tesseract-OCR\tesseract.exe"   #paste the path here or if you dont know what i mean read README.md
 
 root=tk.Tk()
 
