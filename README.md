@@ -4,3 +4,9 @@ License Plate Detection is a python based program, which works on the principle 
 #IMPORTANT
 Install the tesseract-OCR.exe in your system and paste the path in the main code(it is mentioned in the code where to paste it), in order to run the code.
 It should look something like this:- pytesseract.pytesseract.tesseract_cmd=r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+
+#Libraries required
+Intsall OpenCV by typing in the terminal:- pip install opencv-python
+Install Imutils by typing in the terminal:- pip install imutils
+Install Pytesseract by typing in the terminal:- pip install pytesseract
+Don't have to install Tkinter as it is already installed in the latest versions, still facing problem then search on google.
